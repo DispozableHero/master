@@ -306,4 +306,3 @@ E.g. % export HYDRA_PROXY=socks5://l:p@127.0.0.1:9150 (or: socks4:// connect://)
      % export HYDRA_PROXY_HTTP=http://login:pass@proxy:8080
      % export HYDRA_PROXY_HTTP=proxylist.txt  (up to 64 entries)
 ```
-
